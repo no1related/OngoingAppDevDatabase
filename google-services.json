@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696415175042",
+    "project_id": "boysabaw-point-of-sales",
+    "storage_bucket": "boysabaw-point-of-sales.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696415175042:android:ac12b62aaa6ef2d53a0f9b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXu5Z800k0TDGON2I5xnsfDTIwzrFa1c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
